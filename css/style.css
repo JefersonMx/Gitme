@@ -1,9 +1,10 @@
 body{
 
+    background: #1e1f24;
     text-align:  center;
     font-family: "Verdana";
     font-size: 100%;
-    color: rgb(202, 5, 5);
+    color: rgb(0, 0, 0);
     margin: 0;
     padding: 0%;
 
@@ -16,6 +17,11 @@ body{
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+#headder #logo{
+
+    width: 20px;
+    vertical-align: middle;
 }
 #header #tagline{
 
@@ -35,4 +41,9 @@ body{
 #container h1{
 
     font-size: 20px;
+}
+#post{
+
+    background: white;
+    padding: 1em;
 }
