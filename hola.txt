@@ -1,3 +1,1 @@
-Hola Git, esto es nuevo
-
-salto de línea
+Hola Git, esta es otra versión del primer comit solo que estoy conservándola.
